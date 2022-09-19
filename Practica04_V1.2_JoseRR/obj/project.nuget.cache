@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UoFvEyS7xmXd8OFACjBPMaQiefE1MsqXh9u5C5cXVH1GyuFhsrjHdRfEM4a36RUm5a2vFoSrwGUuXjfEBPxD2A==",
+  "success": true,
+  "projectFilePath": "D:\\Usuarios\\Kyle7\\Desktop\\Proyectos\\Practica04_V1.2_JoseRR\\Practica04_V1.2_JoseRR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle7\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kyle7\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kyle7\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kyle7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
